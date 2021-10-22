@@ -28,8 +28,6 @@ stopwords_nltk.extend(new_stopwords)
 
 
 
-
-
 ######--------------------LOAD DATA------------------######
 
 @st.cache(show_spinner=False)
@@ -105,14 +103,12 @@ def about():
 
 def eda():
 
-
     pages = {
         "Vegan vs. Meat": veg,
         "Additives": adds,
         "Nutrients Category-wise": varr,
-        
-    }
-    # Widget to select your page, you can choose between radio buttons or a selectbox
+        }
+
     page = st.radio("(Choose an option to get redirected)", tuple(pages.keys()))
     
     # Display the selected page
@@ -390,9 +386,6 @@ def food_based_recommender(name):
 
 
 
-
-
-
 ########################################################################################################
 ##########------------------------------CRITERIA-BASED--------------------------------------###############
 #########################################################################################################
@@ -416,17 +409,8 @@ def compute_similarities(ing):
     return tfidf_df.iloc[sim_idx].drop(columns=["Combination"])
 
 
-
-
-
-
-    
-
-
-
 ############--------------------------------Third page--------------------------------------##############
 def food_grade():
-
     
     # oatmilk = Image.open(r"D:\CoderSchool_ML30\FINAL PROJECT\imgs\Oatmilk_Grading.JPG")
     oats = Image.open(r"D:\CoderSchool_ML30\FINAL PROJECT\imgs\Oatmilk_Grading.JPG")
@@ -475,20 +459,6 @@ def food_grade():
         st.write("Your Food Processing level is:", nova_grade[0])
         pass
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ##################################------------------------Fourth page-----------------------------##########################
 # @st.cache(allow_output_mutation=True)
@@ -526,13 +496,8 @@ def recommendation():
             st.table(recommendations.sort_values("nutri_grade"))
 
 
-
-
-
 ############---------------------------------MAIN PAGE---------------------------------#############
 def main():
-    # st.header("MinT :D")
-
     pages = {
         "About": about,
         "Nutition Information": eda,
@@ -551,7 +516,7 @@ def main():
 
 
 
-    
+  
 
 if __name__ == "__main__":
     tfidf_df, veg_df, df, additives_count, df_nova = load_data()
