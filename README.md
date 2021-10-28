@@ -42,9 +42,31 @@ For the purpose of this project, only packaged foods from United States were cho
 
 ### III. Explorative Data Analysis
 
+1. Overview of Packaged Food Quality
+
 ![Nutri-grade](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nutri.png)
 
+About 70% of packaged foods from United States are heavily processed NOVA 4 This number is very consistent with most published reports of fast food in United States. Only a very smaller portion of food is unprocessed or minimally procssed.
+
 ![Nova-grade](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nova.png)
+
+Regarding Nutri-grade, nearly 50% of foods are given grade of D or E, this means most packaged food products do not bring many health benefits to consumers at all.
+
+2. Vegan vs. Non-Vegan 
+
+![veg_Nutri](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/veg_nutri.png)
+
+![veg_Nova](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/vegnova.png)
+
+**Comment:** The proportions of Bad Foods (foods with low nutritional quality and high level of processing) are mainly Non-Vegan foods, with about 70% of those fall into these criterias. So why not consider going Vegan?
+
+3. Additives
+
+![Additives](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/adds.png)
+
+![Adds_catwise](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/add_cat.png)
+
+**Comment:** Most packaged foods contain at least 1 additives added for coloring, preservative, or emulsifiers. In 1 package of Dessert, there could be up to 35 additives which definitely do more harm than good to our health.
 
 ## Conclusion
 
