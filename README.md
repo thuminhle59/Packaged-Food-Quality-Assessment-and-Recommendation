@@ -42,6 +42,7 @@ For the purpose of this project, only packaged foods from United States were cho
 
 ### 3. Explorative Data Analysis
 
+![Nutri-grade](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nutri.png)
 
 ## Conclusion
 
