@@ -17,6 +17,7 @@ For the purpose of this project, only packaged foods from United States were cho
 3. Explorative Data Analytics
 4. Developing Models
     - Classification & Regression Models
+    - OCR for Additives Detection
     - Recommendation System
 5. Fine-tuning
 6. Evalutation
@@ -72,6 +73,17 @@ Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_Eat
 
 
 ### IV. Developing Models
+
+1. Random Forest for Classification and Regression
+
+    a. Classification
+
+Benchmark Result: !(https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/classification.png)
+
+    b. Regression
+    
+Benchmark Result !(https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/regression.png)
+
 
 ## Conclusion
 
