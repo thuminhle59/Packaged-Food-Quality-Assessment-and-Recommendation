@@ -91,7 +91,7 @@ Random Forest was chosen as the Final model for both Classification and Regresis
 
 **2. OCR for Additives Detection**
 
-When an image of ingredients is passed through Novous, with the help of Pytesseract, it can detect the additives in E-numbers and provide the information of side effects and usages
+When an image of ingredients is passed through Novous, with the help of Pytesseract, it can detect the additives in E-numbers and provide the information such as side effects and usages
 
 **3. Recommendation System with Content-based Filtering**
 
