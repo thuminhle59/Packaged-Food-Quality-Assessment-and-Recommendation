@@ -12,20 +12,33 @@ For the purpose of this project, only packaged foods from United States were cho
 
 
 ## Outline
-1. 
-2. 
-3. 
-4.
+1. Defining Questions
+2. Data Selection & Processing
+3. Explorative Data Analytics
+4. Developing Models
+  i. Classification & Regression Models
+  ii. Recommendation System
+5. Fine-tuning
+6. Evalutation
 
 
 ### 1. Questions 
+- NOVA-grade (processing level of food) - Common ingredients/food that are classified as most processed
 
+- Nutrition-grade - Is the food really nutritious as its label mentions?
 
+- How to choose similar products to my favorite one?
 
 ### 2. Data Pre-processing
-1. Removing unwanted data
+1. Filtering unescessary columns and data
 2. Dealing with missing data
-3. Detecting outliers
+  - For Recommendation system: data with missing Nutri-score and Nova-grade targets are filled in using previously built models to increase the number of items for Recommendation
+  - For Classification and Regresison tasks, products with missing values are removed
+3. Outliers Treatment
+  - Any numerical values whose values are outside of quantile 0.99 are removed for Classification & Regression
+  - However, for Data Analysis, these outliers are retained to gather insights
+4. Regular Expression & String Manipulation
+  - For Recommendation system, the products need to be grouped into Categories and Labels. In addition, before feeding into TfidfVectorizer, the categorical features need to undergo some Regular expression and string manipulation to clean the special characters, replace comma with space, and finally joining multiple words in the same ingredient by a hyphen. After transformation, each product's ingredients collection is represented as a string of multiple ingredients.
 
 ### 3. Explorative Data Analysis
 
