@@ -111,6 +111,11 @@ Roc Areas for each NOVA-grade class
 |Roc Auc| 0.94228 |    NA   |
 |MAE    |   NA    | 0.49874 |
 
+## Conclustion
+
+I have seen the Machine Learning models can predict and classify the Nutritional Value as well as Processing levels of packaged foods just using the Nutrition facts on the packaged food labels. It is also able to detect any Additives in the Ingredients list that are written under E-codes. In addition to Food Quality assessment features, the Recommender system that uses Tfidf will suggest a cleaner and better food substitution for people to improve their health.
+
+From the Data Analysis done on packaged food products, I do think that Vegan foods have better nutritional quality than most foods that are Non-vegan. In addition, by consuming Vegan food, consumer will have lower chance of getting heavily-processed foods that could do great damage to their health and increase risks of cardiovascular diseases. However, since most packaged foods are loaded with additives for coloring, preservative, or emulfiers, etc., I do recommend that we should limit fast foods, and stick with home-made meals, especially those from fruits, vegetables, grains, legumes or plant-based proteins.
 
 
 
