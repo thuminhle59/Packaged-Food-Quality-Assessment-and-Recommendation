@@ -19,8 +19,7 @@ For the purpose of this project, only packaged foods from United States were cho
     - Classification & Regression Models
     - OCR for Additives Detection
     - Recommendation System
-5. Fine-tuning
-6. Evalutation
+5. Fine-tuning & Evalutation
 
 
 ### I. Questions 
@@ -99,23 +98,19 @@ When an image of ingredients is passed through Novous, with the help of Pytesser
 
 Tfidf Vectorizer is used to vectorize the categorical features into numbers. Each product will be a vector with each entry is a unique ingredient of that product. Tfidf highlights the important and unique ingredients and making sure that unimportant ones (water, sugars, etc..) do not dominate
 
-### V. Fine-Tuning
+### V. Fine-Tuning & Evaluation
 
 Roc Areas for each NOVA-grade class
 
 ![RocAUC](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/roc_auc.png)
 
+**Fine-tuning Result**
 
 ||Random Forest Classifier|Random Forest Regressor|
 |-------|---------|---------|
 |Roc Auc| 0.94228 |    NA   |
 |MAE    |   NA    | 0.49874 |
 
-
-
-
-
-## Conclusion
 
 
 
