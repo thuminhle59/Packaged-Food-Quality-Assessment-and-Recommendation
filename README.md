@@ -1,7 +1,7 @@
 # NOVOUS EatBetterNotLess
 
 
-Link to Presentation: 
+Link to Presentation: https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0iUPPr1RTWVEJv36mlMCbqDrYg/edit?usp=sharing
 
 ## Dataset
 The dataset used for Novous originates from OpenFoodFacts https://world.openfoodfacts.org, a free and online database of nearly 2 million food products around the world. This data contains metadata of packaged foods such as Name, Brand, Product Image, Origin, Nutrition facts, Ingredients, Nutriscore, Nova-grade, etc.
