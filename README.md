@@ -16,8 +16,8 @@ For the purpose of this project, only packaged foods from United States were cho
 2. Data Selection & Processing
 3. Explorative Data Analytics
 4. Developing Models
-  - Classification & Regression Models
-  - Recommendation System
+    - Classification & Regression Models
+    - Recommendation System
 5. Fine-tuning
 6. Evalutation
 
