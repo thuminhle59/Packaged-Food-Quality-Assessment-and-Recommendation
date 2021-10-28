@@ -57,7 +57,11 @@ Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_Eat
 
 2. Vegan vs. Non-Vegan 
 
+**Does Vegan equal Healither?**
+
 ![veg_Nutri](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/veg_nutri.png)
+
+**Are Vegan Foods less processed?**
 
 ![veg_Nova](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/vegnova.png)
 
@@ -74,17 +78,40 @@ Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_Eat
 
 ### IV. Developing Models
 
-1. Random Forest for Classification and Regression
+1. Random Forest for NOVA-grade Classification and Nutri-score Regression
 
     a. Classification
-
 Benchmark Result: 
-![Class](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/classification.png)
 
-   b. Regression
-    
+![Class](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/classification.png)
+    b. Regression
 Benchmark Result:
+
 ![Regress](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/regression.png)
+
+Random Forest was chosen as the Final model for both Classification and Regresison tasks.
+
+2. OCR for Additives Detection
+
+When an image of ingredients is passed through Novous, with the help of Pytesseract, it can detect the additives in E-numbers and provide the information of side effects and usages
+
+3. Recommendation System with Content-based Filtering
+
+Tfidf Vectorizer is used to vectorize the categorical features into numbers. Each product will be a vector with each entry is a unique ingredient of that product. Tfidf highlights the important and unique ingredients and making sure that unimportant ones (water, sugars, etc..) do not dominate
+
+### V. Fine-Tuning
+
+Roc Areas for each NOVA-grade class
+
+![RocAUC](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/roc_auc.png)
+
+
+|-----|Random Forest Classifier|Random Forest Regressor|
+|Roc Auc| 0.94228 |         |
+|MAE    |         | 0.49874 |
+
+
+
 
 
 ## Conclusion
