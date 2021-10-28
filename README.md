@@ -78,11 +78,13 @@ Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_Eat
 
     a. Classification
 
-Benchmark Result: ![Class](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/classification.png)
+Benchmark Result: 
+![Class](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/classification.png)
 
-    b. Regression
+   b. Regression
     
-Benchmark Result ![Regress](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/regression.png)
+Benchmark Result:
+![Regress](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/regression.png)
 
 
 ## Conclusion
