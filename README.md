@@ -22,14 +22,14 @@ For the purpose of this project, only packaged foods from United States were cho
 6. Evalutation
 
 
-### 1. Questions 
+### I. Questions 
 - NOVA-grade (processing level of food) - Common ingredients/food that are classified as most processed
 
 - Nutrition-grade - Is the food really nutritious as its label mentions?
 
 - How to choose similar products to my favorite one?
 
-### 2. Data Pre-processing
+### II. Data Pre-processing
 1. Filtering unescessary columns and data
 2. Dealing with missing data
   - For Recommendation system: data with missing Nutri-score and Nova-grade targets are filled in using previously built models to increase the number of items for Recommendation
@@ -40,7 +40,7 @@ For the purpose of this project, only packaged foods from United States were cho
 4. Regular Expression & String Manipulation
   - For Recommendation system, the products need to be grouped into Categories and Labels. In addition, before feeding into TfidfVectorizer, the categorical features need to undergo some Regular expression and string manipulation to clean the special characters, replace comma with space, and finally joining multiple words in the same ingredient by a hyphen. After transformation, each product's ingredients collection is represented as a string of multiple ingredients.
 
-### 3. Explorative Data Analysis
+### III. Explorative Data Analysis
 
 ![Nutri-grade](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nutri.png)
 
