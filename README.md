@@ -44,6 +44,8 @@ For the purpose of this project, only packaged foods from United States were cho
 
 ![Nutri-grade](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nutri.png)
 
+![Nova-grade](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nova.png)
+
 ## Conclusion
 
 
