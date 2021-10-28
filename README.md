@@ -78,13 +78,11 @@ Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_Eat
 ### IV. Developing Models
 
 1. Random Forest for NOVA-grade Classification and Nutri-score Regression
-
-    a. Classification
-Benchmark Result: 
+    - Classification Benchmark Result: 
 
 ![Class](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/classification.png)
-    b. Regression Benchmark Result:
-
+    - Regression Benchmark Result:
+    
 ![Regress](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/regression.png)
 
 Random Forest was chosen as the Final model for both Classification and Regresison tasks.
