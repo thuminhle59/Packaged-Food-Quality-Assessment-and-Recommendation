@@ -41,7 +41,7 @@ For the purpose of this project, only packaged foods from United States were cho
 4. Regular Expression & String Manipulation
     - For Recommendation system, the products need to be grouped into Categories and Labels. In addition, before feeding into TfidfVectorizer, the categorical features need to undergo some Regular expression and string manipulation to clean the special characters, replace comma with space, and finally joining multiple words in the same ingredient by a hyphen. After transformation, each product's ingredients collection is represented as a string of multiple ingredients.
 
-Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/regex.png)
+Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/reg.png)
 
 ### III. Explorative Data Analysis
 
@@ -108,8 +108,8 @@ Roc Areas for each NOVA-grade class
 
 ||Random Forest Classifier|Random Forest Regressor|
 |-------|---------|---------|
-|Roc Auc| 0.94228 |         |
-|MAE    |         | 0.49874 |
+|Roc Auc| 0.94228 |    NA   |
+|MAE    |   NA    | 0.49874 |
 
 
 
