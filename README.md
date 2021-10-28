@@ -106,7 +106,8 @@ Roc Areas for each NOVA-grade class
 ![RocAUC](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/roc_auc.png)
 
 
-|-----|Random Forest Classifier|Random Forest Regressor|
+||Random Forest Classifier|Random Forest Regressor|
+|-------|---------|---------|
 |Roc Auc| 0.94228 |         |
 |MAE    |         | 0.49874 |
 
