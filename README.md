@@ -30,21 +30,21 @@ For the purpose of this project, only packaged foods from United States were cho
 - How to choose similar products to my favorite one?
 
 ### II. Data Pre-processing
-1. Filtering unescessary columns and data
-2. Dealing with missing data
+**1. Filtering unescessary columns and data**
+**2. Dealing with missing data**
     - For Recommendation system: data with missing Nutri-score and Nova-grade targets are filled in using previously built models to increase the number of items for Recommendation
     - For Classification and Regresison tasks, products with missing values are removed
-3. Outliers Treatment
+**3. Outliers Treatment**
     - Any numerical values whose values are outside of quantile 0.99 are removed for Classification & Regression
     - However, for Data Analysis, these outliers are retained to gather insights
-4. Regular Expression & String Manipulation
+**4. Regular Expression & String Manipulation**
     - For Recommendation system, the products need to be grouped into Categories and Labels. In addition, before feeding into TfidfVectorizer, the categorical features need to undergo some Regular expression and string manipulation to clean the special characters, replace comma with space, and finally joining multiple words in the same ingredient by a hyphen. After transformation, each product's ingredients collection is represented as a string of multiple ingredients.
 
 Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/reg.png)
 
 ### III. Explorative Data Analysis
 
-1. Overview of Packaged Food Quality
+**1. Overview of Packaged Food Quality**
 
 ![Nutri-grade](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nutri.png)
 
@@ -54,7 +54,7 @@ Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_Eat
 
 **Regarding Nutri-grade, nearly 50% of foods are given grade of D or E, this means most packaged food products do not bring many health benefits to consumers at all.**
 
-2. Vegan vs. Non-Vegan 
+**2. Vegan vs. Non-Vegan**
 
 **Does Vegan equal Healither?**
 
@@ -66,7 +66,7 @@ Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_Eat
 
 **The proportions of Bad Foods (foods with low nutritional quality and high level of processing) are mainly Non-Vegan foods, with about 70% of those fall into these criterias. So why not consider going Vegan?**
 
-3. Additives
+**3. Additives**
 
 ![Additives](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/adds.png)
 
@@ -77,9 +77,9 @@ Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_Eat
 
 ### IV. Developing Models
 
-1. Random Forest for NOVA-grade Classification and Nutri-score Regression
+**1. Random Forest for NOVA-grade Classification and Nutri-score Regression**
 
-   - Classification Benchmark Result: 
+  - Classification Benchmark Result: 
 
 ![Class](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/classification.png)
 
@@ -89,11 +89,11 @@ Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_Eat
 
 Random Forest was chosen as the Final model for both Classification and Regresison tasks.
 
-2. OCR for Additives Detection
+**2. OCR for Additives Detection**
 
 When an image of ingredients is passed through Novous, with the help of Pytesseract, it can detect the additives in E-numbers and provide the information of side effects and usages
 
-3. Recommendation System with Content-based Filtering
+**3. Recommendation System with Content-based Filtering**
 
 Tfidf Vectorizer is used to vectorize the categorical features into numbers. Each product will be a vector with each entry is a unique ingredient of that product. Tfidf highlights the important and unique ingredients and making sure that unimportant ones (water, sugars, etc..) do not dominate
 
