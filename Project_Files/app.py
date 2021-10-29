@@ -614,7 +614,7 @@ def recommendation():
                     st.table(recommendations)
 
                 except ValueError:
-                    st.warning("Sorry! We can't recommend any product that match your preferences. Please try again.")
+                    st.warning("Sorry! We can't recommend any product that matches your preferences. Please try again.")
 
 
 
