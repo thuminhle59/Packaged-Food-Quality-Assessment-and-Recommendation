@@ -491,7 +491,7 @@ def food_grade():
 
             if nutri_grade in ["c", "d", "e"] :
                 if nova_grade in [3,4]:
-                    st.warning("This food is good for you. Maybe you should find something healthier!")
+                    st.warning("This food is not good for you. Maybe you should find something healthier!")
                 elif nova_grade in [1,2]:
                     st.info("This might not contain a lot of nutrition but it's not harmful to consume")
 
