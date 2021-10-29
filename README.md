@@ -31,12 +31,15 @@ For the purpose of this project, only packaged foods from United States were cho
 
 ### II. Data Pre-processing
 **1. Filtering unescessary columns and data**
+
 **2. Dealing with missing data**
     - For Recommendation system: data with missing Nutri-score and Nova-grade targets are filled in using previously built models to increase the number of items for Recommendation
     - For Classification and Regresison tasks, products with missing values are removed
+    
 **3. Outliers Treatment**
     - Any numerical values whose values are outside of quantile 0.99 are removed for Classification & Regression
     - However, for Data Analysis, these outliers are retained to gather insights
+    
 **4. Regular Expression & String Manipulation**
     - For Recommendation system, the products need to be grouped into Categories and Labels. In addition, before feeding into TfidfVectorizer, the categorical features need to undergo some Regular expression and string manipulation to clean the special characters, replace comma with space, and finally joining multiple words in the same ingredient by a hyphen. After transformation, each product's ingredients collection is represented as a string of multiple ingredients.
 
