@@ -1,6 +1,3 @@
-from io import TextIOWrapper
-from numpy.lib.function_base import vectorize
-from numpy.lib.npyio import load
 import streamlit as st
 import pandas as pd, seaborn as sns
 import numpy as np
