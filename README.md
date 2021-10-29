@@ -27,7 +27,7 @@ For the purpose of this project, only packaged foods from United States were cho
 
 - Nutrition-grade - Is the food really nutritious as its label mentions?
 
-- How to choose similar products to my favorite one?
+- How to choose similar products to my favorite one that has the best nutritional quality and as less processing as possible?
 
 ### II. Data Pre-processing
 **1. Filtering unescessary columns and data**
