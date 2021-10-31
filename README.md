@@ -6,7 +6,7 @@ Link to Presentation: https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0
 ## Dataset
 The dataset used for Novous originates from OpenFoodFacts (https://world.openfoodfacts.org) a free and online database of nearly 2 million food products around the world. This data contains metadata of packaged foods such as Name, Brand, Product Image, Origin, Nutrition facts, Ingredients, Nutriscore, Nova-grade, etc.
 
-For the purpose of this project, only packaged foods from United States were chosen to analyze their ingredients in English, and the number of items were around 190,000 products, along with 12 numerical and categorical features
+For the purpose of this project, only packaged foods from United States were chosen to analyze their ingredients in English, and the number of items were around 190,000 products, along with 12 numerical and categorical features and 2 targets
 
 ## Project Description
 
