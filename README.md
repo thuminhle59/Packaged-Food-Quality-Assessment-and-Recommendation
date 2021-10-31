@@ -34,9 +34,9 @@ For the purpose of this project, only packaged foods from United States were cho
 
 **2. Dealing with missing data**
 
-    - For Recommendation system: data with missing Nutri-score and Nova-grade targets are filled in using previously built models to increase the number of items for Recommendation
+   - For Recommendation system: data with missing Nutri-score and Nova-grade targets are filled in using previously built models to increase the number of items for Recommendation
     
-    - For Classification and Regresison tasks, products with missing values are removed
+   - For Classification and Regresison tasks, products with missing values are removed
     
 **3. Outliers Treatment**
 
