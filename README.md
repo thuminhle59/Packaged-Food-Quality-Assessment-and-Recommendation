@@ -3,12 +3,12 @@
 
 Link to Presentation: https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0iUPPr1RTWVEJv36mlMCbqDrYg/edit?usp=sharing
 
-## Dataset
+## DATASET
 The dataset used for Novous originates from OpenFoodFacts (https://world.openfoodfacts.org) a free and online database of nearly 2 million food products around the world. This data contains metadata of packaged foods such as Name, Brand, Product Image, Origin, Nutrition facts, Ingredients, Nutriscore, Nova-grade, etc.
 
 For the purpose of this project, only packaged foods from United States were chosen to analyze their ingredients in English, and the number of items were around 190,000 products, along with 12 numerical and categorical features and 2 targets
 
-## Project Description
+## PROJECT DESCRIPTION
    - ```Project_Files/Novous_Preprocessing.ipynb```: Data Preprocessing Notebook for EDA, ML pipelines and Recommendation system
    - ```Project_Files/Novous_EDA.ipynb```: This notebook contains some insights about Nutrition of most Packaged food products in the United States and how they can impact our health
    - ```Project_Files/Novous_Classification.ipynb```: Machine Learning model to classifify the Processing level of packaged food products
@@ -16,7 +16,7 @@ For the purpose of this project, only packaged foods from United States were cho
    - ```Project_Files/Novous_AdditivesOCR.ipynb```: Implementation of OCR for identifying additives listed in the packaged food labels 
    - ```Project_Files/Novous_Recommendation.ipynb```: Recommendation system that utilizes Content-based Filtering to recommend healthier substitution that priorities health and food quality
 
-## Requirements
+## REQUIREMENTS
    - streamlit 0.81.1
    - sklearn 0.22.2.post1
    - tesseract
@@ -26,7 +26,7 @@ For the purpose of this project, only packaged foods from United States were cho
    - imblearn 0.7
    - opencv
 
-## Outline
+## OUTLINE
 1. Defining Questions
 2. Data Selection & Processing
 3. Explorative Data Analytics
@@ -133,7 +133,7 @@ Roc Areas for each NOVA-grade class
 |Roc Auc| 0.94228 |    NA   |
 |MAE    |   NA    | 0.49874 |
 
-## Conclusion
+## CONCLUSION
 
 The 2 Machine Learning models can predict and classify the Nutritional Value as well as Processing levels of packaged foods just using the Nutrition facts on the packaged food labels. It is also able to detect any Additives in the Ingredients list that are written under E-codes. In addition to Food Quality assessment features, the Recommender system that uses Tfidf will suggest a cleaner and better food substitution for people to improve their health.
 
