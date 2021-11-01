@@ -9,7 +9,12 @@ The dataset used for Novous originates from OpenFoodFacts (https://world.openfoo
 For the purpose of this project, only packaged foods from United States were chosen to analyze their ingredients in English, and the number of items were around 190,000 products, along with 12 numerical and categorical features and 2 targets
 
 ## Project Description
-   - ```Project_Files/Novous_AdditivesOCR.ipynb```
+   - ```Project_Files/Novous_Preprocessing.ipynb```: Data Preprocessing Notebook for EDA, ML pipelines and Recommendation system
+   - ```Project_Files/Novous_EDA.ipynb```: This notebook contains some insights about Nutrition of most Packaged food products in the United States and how they can impact our health
+   - ```Project_Files/Novous_Classification.ipynb```: Machine Learning model to classifify the Processing level of packaged food products
+   - ```Project_Files/Novous_Regression.ipynb```: This notebook contains Regression models to predict the Nutrition scores of packaged foods
+   - ```Project_Files/Novous_AdditivesOCR.ipynb```: Implementation of OCR for identifying additives listed in the packaged food labels 
+   - ```Project_Files/Novous_Recommendation.ipynb```: Recommendation system that utilizes Content-based Filtering to recommend healthier substitution that priorities health and food quality
 
 ## Requirements
    - streamlit 0.81.1
