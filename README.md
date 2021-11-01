@@ -140,5 +140,10 @@ The 2 Machine Learning models can predict and classify the Nutritional Value as 
 
 From the Data Analysis done on packaged food products, I do think that Vegan foods have better nutritional quality than most foods that are Non-vegan. In addition, by consuming Vegan food, consumer will have lower chance of getting heavily-processed foods that could do great damage to their health and increase risks of cardiovascular diseases. However, since most packaged foods are loaded with additives for coloring, preservative, or emulfiers, etc., I do recommend that we should limit fast foods, and stick with home-made meals, especially those from fruits, vegetables, grains, legumes or plant-based proteins.
 
+## FUTURE WORK
 
+1. OCR of Nutrition Fact labels on Packaged Foods for automatic input for Food-quality assessment
+2. Personalized Allergens Detection using OCR and String matching
+3. More Nutrition Analysis
+4. Implementation on Cosmetics Products using similar approaches (working)
 
