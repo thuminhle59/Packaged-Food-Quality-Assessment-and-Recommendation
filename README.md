@@ -88,7 +88,7 @@ This number is very consistent with most published reports of fast food in Unite
 
 ![veg_Nova](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/vegnova.png)
 
-**The proportions of Bad Foods (foods with low nutritional quality and high level of processing) are mainly Non-Vegan foods, with about 70% of those fall into these criterias. So why not consider going Vegan?**
+**With 98% of Non-Vegan foods fall into NOVA-grade D or E (foods with high level of processing). So why not consider going Vegan?**
 
 **3. Additives**
 
@@ -96,7 +96,7 @@ This number is very consistent with most published reports of fast food in Unite
 
 ![Adds_catwise](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/add_cat.png)
 
-**Most packaged foods contain at least 1 additives added for coloring, preservative, or emulsifiers. In 1 package of Dessert, there could be up to 35 additives which definitely do more harm than good to our health.**
+**Most packaged foods contain at least some additives added for coloring, preservative, or emulsifiers. In 1 package of Dessert, there could be up to 35 additives which definitely do more harm than good to our health.**
 
 
 ### IV. Developing Models
@@ -115,7 +115,7 @@ Random Forest was chosen as the Final model for both Classification and Regresis
 
 **2. OCR for Additives Detection**
 
-When an image of ingredients is passed through Novous, with the help of Pytesseract, it can detect the additives in E-numbers and provide the information such as side effects and usages
+When an image of ingredients is passed through Novous, with the help of Pytesseract and Regex, Novous can detect the additives in E-numbers and provide the information such as side effects and usages to users.
 
 **3. Recommendation System with Content-based Filtering**
 
