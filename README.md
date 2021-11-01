@@ -123,16 +123,16 @@ Tfidf Vectorizer is used to vectorize the categorical features into numbers. Eac
 
 ### V. Fine-Tuning & Evaluation
 
-Roc Areas for each NOVA-grade class
-
-![RocAUC](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/roc_auc.png)
-
 **Fine-tuning Result**
 
 ||Random Forest Classifier|Random Forest Regressor|
 |-------|---------|---------|
 |Roc Auc| 0.94228 |    NA   |
 |MAE    |   NA    | 0.49874 |
+
+Roc Areas for each NOVA-grade class
+
+![RocAUC](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/roc_auc.png)
 
 ## CONCLUSION
 
