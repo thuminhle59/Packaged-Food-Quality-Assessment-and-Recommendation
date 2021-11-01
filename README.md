@@ -13,7 +13,7 @@ For the purpose of this project, only packaged foods from United States were cho
    - ```Project_Files/Novous_EDA.ipynb```: This notebook contains some insights about Nutrition of most Packaged food products in the United States and how they can impact our health
    - ```Project_Files/Novous_Classification.ipynb```: Machine Learning model to classifify the Processing level of packaged food products
    - ```Project_Files/Novous_Regression.ipynb```: This notebook contains Regression models to predict the Nutrition scores of packaged foods
-   - ```Project_Files/Novous_AdditivesOCR.ipynb```: Implementation of OCR for identifying additives listed in the packaged food labels 
+   - ```https://github.com/thuminhle59/Novous_EatBetterNotLess/blob/feb9f5b1e8ba2ef0666aca89895a59d5946305c0/Project_Files/Novous_AdditivesOCR.ipynb```: Implementation of OCR for identifying additives listed in the packaged food labels 
    - ```Project_Files/Novous_Recommendation.ipynb```: Recommendation system that utilizes Content-based Filtering to recommend healthier substitution that priorities health and food quality
 
 ## Requirements
