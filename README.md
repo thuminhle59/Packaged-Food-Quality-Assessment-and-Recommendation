@@ -9,7 +9,17 @@ The dataset used for Novous originates from OpenFoodFacts (https://world.openfoo
 For the purpose of this project, only packaged foods from United States were chosen to analyze their ingredients in English, and the number of items were around 190,000 products, along with 12 numerical and categorical features and 2 targets
 
 ## Project Description
+   - ```Project_Files/Novous_AdditivesOCR.ipynb```
 
+## Requirements
+   - streamlit 0.81.1
+   - sklearn 0.22.2.post1
+   - tesseract
+   - pytesseract
+   - nltk 3.5
+   - plotly
+   - imblearn 0.7
+   - opencv
 
 ## Outline
 1. Defining Questions
