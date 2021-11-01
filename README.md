@@ -71,7 +71,8 @@ Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_Eat
 
 ![Nutri-grade](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nutri.png)
 
-**About 70% of packaged foods from United States are heavily processed NOVA 4 This number is very consistent with most published reports of fast food in United States. Only a very smaller portion of food is unprocessed or minimally procssed.**
+**About 70% of packaged foods from United States are heavily processed (NOVA 4).
+This number is very consistent with most published reports of fast food in United States. Only a very smaller portion of food is unprocessed or minimally procssed.**
 
 ![Nova-grade](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nova.png)
 
