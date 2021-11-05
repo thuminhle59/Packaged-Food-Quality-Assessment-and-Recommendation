@@ -122,7 +122,7 @@ Random Forest was chosen as the Final model for both Classification and Regresis
 
 **2. OCR for Additives Detection**
 
-<img src="https://github.com/thuminhle59/Novous_EatBetterNotLess/blob/main/imgs/additives.gif?raw=true" width="40" height="40" />
+<img src="https://github.com/thuminhle59/Novous_EatBetterNotLess/blob/main/imgs/additives.gif?raw=true" width="400" height="400" />
 
 When an image of ingredients is passed through Novous, with the help of Pytesseract and Regex, Novous can detect the additives in E-numbers and provide the information such as side effects and usages to users.
 
