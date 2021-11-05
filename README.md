@@ -1,13 +1,20 @@
-# NOVOUS EatBetterNotLess
+# NOVOUS
 
 <p align="center">
   <a>
     <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/logo.png" alt="Logo" width="200">
   </a>
+  <h3 align="center">EatBetterNotLess</h3>
 
   <p align="center">
     The app that assesses the quality of packaged food products and recommends healthier substitution.
     <br />
+    <a href="https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0iUPPr1RTWVEJv36mlMCbqDrYg/edit?usp=sharing"><strong>The Presentation »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/thuminhle59/Novous_EatBetterNotLess/tree/main/Project_Files">Project files</a>
+    ·
+    <a href="https://world.openfoodfacts.org/data">Dataset</a>
   </p>
 </p>
 
