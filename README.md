@@ -70,7 +70,9 @@ For the purpose of this project, only packaged foods from United States were cho
 
    - For Recommendation system, the products need to be grouped into Categories and Labels. In addition, before feeding into TfidfVectorizer, the categorical features need to undergo some Regular expression and string manipulation to clean the special characters, replace comma with space, and finally joining multiple words in the same ingredient by a hyphen. After transformation, each product's ingredients collection is represented as a string of multiple ingredients.
 
-Sample result: <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/reg.png" width="600"/>
+Sample result:
+
+<img src="https://github.com/thuminhle59/Novous_EatBetterNotLess/blob/main/imgs/reg.png?raw=true" width="600"/>
 
 ### III. Explorative Data Analysis
 
