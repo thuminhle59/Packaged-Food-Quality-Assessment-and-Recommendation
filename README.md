@@ -74,6 +74,8 @@ Sample result:
 
 <img src="https://github.com/thuminhle59/Novous_EatBetterNotLess/blob/main/imgs/reg.png?raw=true" width="800"/>
 
+--------------------------------------
+
 ### III. Explorative Data Analysis
 
 **1. Overview of Packaged Food Quality**
@@ -89,11 +91,11 @@ This number is very consistent with most published reports of fast food in Unite
 
 **2. Vegan vs. Non-Vegan**
 
-   **Does Vegan equal Healither?**
+ **Does Vegan equal Healither?**
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/veg_nutri.png" width="600"/>
 
-   **Are Vegan Foods less processed?**
+**Are Vegan Foods less processed?**
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/vegnova.png" width="600"/>
 
@@ -107,6 +109,7 @@ This number is very consistent with most published reports of fast food in Unite
 
 **Most packaged foods contain at least some additives added for coloring, preservative, or emulsifiers. In 1 package of Dessert, there could be up to 35 additives which definitely do more harm than good to our health.**
 
+-------------------------------------------------
 
 ### IV. Developing Models
 
