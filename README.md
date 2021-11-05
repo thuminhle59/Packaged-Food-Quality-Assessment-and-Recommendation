@@ -24,6 +24,8 @@
     <a href="https://github.com/thuminhle59/Novous_EatBetterNotLess/tree/main/Project_Files">Jupyter Notebooks</a>
     ·
     <a href="https://world.openfoodfacts.org/data">Dataset</a>
+    ·
+    <a href="https://mintthux.notion.site/Novous-105103acda3f4cdcb6e3eba527e15587">Proposal</a>
   </p>
 </p>
 
