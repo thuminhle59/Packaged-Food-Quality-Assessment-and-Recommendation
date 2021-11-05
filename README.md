@@ -5,7 +5,6 @@
     <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/logo.png" alt="Logo" width="180" height="140">
   </a>
   <h3 align="center">EatBetterNotLess</h3>
-
   <p align="center">
     The app that assesses the quality of packaged food products and recommends healthier substitution.
     <br />
@@ -17,10 +16,6 @@
     <a href="https://world.openfoodfacts.org/data">Dataset</a>
   </p>
 </p>
-
-<br />
-<br />
-Link to Presentation: https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0iUPPr1RTWVEJv36mlMCbqDrYg/edit?usp=sharing
 
 ## DATASET
 The dataset used for Novous originates from OpenFoodFacts (https://world.openfoodfacts.org) a free and online database of nearly 2 million food products around the world. This data contains metadata of packaged foods such as Name, Brand, Product Image, Origin, Nutrition facts, Ingredients, Nutriscore, Nova-grade, etc.
