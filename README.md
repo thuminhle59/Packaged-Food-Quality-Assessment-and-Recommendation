@@ -1,5 +1,17 @@
 # NOVOUS EatBetterNotLess
 
+<p align="center">
+  <a>
+    <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/logo.png" alt="Logo" width="120" height="120">
+  </a>
+
+  <p align="center">
+    The app that assesses the quality of packaged food products and recommends healthier substitution.
+    <br />
+    <a href="https://github.com/normangalt/Cosmetics-Check"><strong>Explore the docs »</strong></a>
+  </p>
+</p>
+
 
 Link to Presentation: https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0iUPPr1RTWVEJv36mlMCbqDrYg/edit?usp=sharing
 
