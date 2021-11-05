@@ -1,3 +1,10 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <p align="center">
   <a>
     <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/logo.png" alt="Logo" width="180" height="140">
@@ -183,4 +190,13 @@ From the Data Analysis done on packaged food products, I do think that Vegan foo
   The bootcamp that lasted 4 months was taught by the dedicated and amazing Instructors and Teaching Assistants whom I greatly appreciate. It also introduced me to people who have been very supportive throughout the course and that are now my good friends.
   
   Thank you again to all of the wonderful people whom I met at CoderSchool. Wish you all Good luck!
+  
 
+[contributors-shield]: https://img.shields.io/github/contributors/thuminhle59/Novous.svg?style=for-the-badge
+[contributors-url]: https://github.com/thuminhle59/Novous/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/thuminhle59/Novous.svg?style=for-the-badge
+[forks-url]: https://github.com/thuminhle59/Novous/network/members
+[stars-shield]: https://img.shields.io/github/stars/thuminhle59/Novous.svg?style=for-the-badge
+[stars-url]: https://github.com/thuminhle59/Novous/stargazers
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/thuminhle59/
