@@ -91,21 +91,19 @@ This number is very consistent with most published reports of fast food in Unite
 
 **Does Vegan equal Healither?**
 
-<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/veg_nutri.png" width="500"/>
-
-![veg_Nutri](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/veg_nutri.png)
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/veg_nutri.png" width="600"/>
 
 **Are Vegan Foods less processed?**
 
-![veg_Nova](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/vegnova.png)
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/vegnova.png" width="600"/>
 
 **With 98% of Non-Vegan foods fall into NOVA-grade D or E (foods with high level of processing). So why not consider going Vegan?**
 
 **3. Additives**
 
-![Additives](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/adds.png)
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/adds.png" width="600"/>
 
-![Adds_catwise](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/add_cat.png)
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/add_cat.png" width="600"/>
 
 **Most packaged foods contain at least some additives added for coloring, preservative, or emulsifiers. In 1 package of Dessert, there could be up to 35 additives which definitely do more harm than good to our health.**
 
@@ -116,11 +114,11 @@ This number is very consistent with most published reports of fast food in Unite
 
   - Classification Benchmark Result: 
 
-![Class](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/classification.png)
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/classification.png" width="600"/>
 
    - Regression Benchmark Result:
     
-![Regress](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/regression.png)
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/regression.png" width="600"/>
 
 Random Forest was chosen as the Final model for both Classification and Regresison tasks.
 
@@ -149,7 +147,7 @@ Tfidf Vectorizer is used to vectorize the categorical features into numbers. Eac
 
 Roc Areas for each NOVA-grade class
 
-![RocAUC](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/roc_auc.png)
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/roc_auc.png" width="600"/>
 
 ## KEY TAKEAWAYS
 
