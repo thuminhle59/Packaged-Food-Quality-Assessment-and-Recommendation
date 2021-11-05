@@ -184,5 +184,5 @@ From the Data Analysis done on packaged food products, I do think that Vegan foo
   
   The bootcamp that lasted 4 months was taught by the dedicated and amazing Instructors and Teaching Assistants whom I greatly appreciate. It also introduced me to people who have been very supportive throughout the course and that are now my good friends.
   
-  Thank you again to all of the wonderful people whom I met at CoderSchool. Wish you all Goodlucks!
+  Thank you again to all of the wonderful people whom I met at CoderSchool. Wish you all Good luck!
 
