@@ -1,5 +1,3 @@
-# NOVOUS
-
 <p align="center">
   <a>
     <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/logo.png" alt="Logo" width="180" height="140">
