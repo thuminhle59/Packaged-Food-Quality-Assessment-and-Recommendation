@@ -2,7 +2,7 @@
 
 <p align="center">
   <a>
-    <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/logo.png" alt="Logo" width="200">
+    <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/logo.png" alt="Logo" width="200" height="140">
   </a>
   <h3 align="center">EatBetterNotLess</h3>
 
