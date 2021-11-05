@@ -74,7 +74,6 @@ Sample result:
 
 <img src="https://github.com/thuminhle59/Novous_EatBetterNotLess/blob/main/imgs/reg.png?raw=true" width="800"/>
 
---------------------------------------
 
 ### III. Explorative Data Analysis
 
@@ -109,7 +108,6 @@ This number is very consistent with most published reports of fast food in Unite
 
 **Most packaged foods contain at least some additives added for coloring, preservative, or emulsifiers. In 1 package of Dessert, there could be up to 35 additives which definitely do more harm than good to our health.**
 
--------------------------------------------------
 
 ### IV. Developing Models
 
@@ -138,6 +136,7 @@ When an image of ingredients is passed through Novous, with the help of Pytesser
 **3. Recommendation System with Content-based Filtering**
 
 Tfidf Vectorizer is used to vectorize the categorical features into numbers. Each product will be a vector with each entry is a unique ingredient of that product. Tfidf highlights the important and unique ingredients and making sure that unimportant ones (water, sugars, etc..) do not dominate
+
 
 ### V. Fine-Tuning & Evaluation
 
