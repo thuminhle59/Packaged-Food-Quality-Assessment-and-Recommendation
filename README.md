@@ -8,7 +8,6 @@
   <p align="center">
     The app that assesses the quality of packaged food products and recommends healthier substitution.
     <br />
-    <a href="https://github.com/normangalt/Cosmetics-Check"><strong>Explore the docs »</strong></a>
   </p>
 </p>
 
