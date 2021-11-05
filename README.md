@@ -130,6 +130,8 @@ When an image of ingredients is passed through Novous, with the help of Pytesser
 
 **3. Recommendation System with Content-based Filtering**
 
+<iframe src="https://giphy.com/embed/OyafIy6NoYKjFoz2Zy" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/OyafIy6NoYKjFoz2Zy">via GIPHY</a></p>
+
 Tfidf Vectorizer is used to vectorize the categorical features into numbers. Each product will be a vector with each entry is a unique ingredient of that product. Tfidf highlights the important and unique ingredients and making sure that unimportant ones (water, sugars, etc..) do not dominate
 
 ### V. Fine-Tuning & Evaluation
