@@ -3,8 +3,6 @@
 
 Link to Presentation: https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0iUPPr1RTWVEJv36mlMCbqDrYg/edit?usp=sharing
 
-<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/blob/main/imgs/intro.gif" width="800" height="800" />
-
 ## DATASET
 The dataset used for Novous originates from OpenFoodFacts (https://world.openfoodfacts.org) a free and online database of nearly 2 million food products around the world. This data contains metadata of packaged foods such as Name, Brand, Product Image, Origin, Nutrition facts, Ingredients, Nutriscore, Nova-grade, etc.
 
@@ -72,18 +70,18 @@ For the purpose of this project, only packaged foods from United States were cho
 
    - For Recommendation system, the products need to be grouped into Categories and Labels. In addition, before feeding into TfidfVectorizer, the categorical features need to undergo some Regular expression and string manipulation to clean the special characters, replace comma with space, and finally joining multiple words in the same ingredient by a hyphen. After transformation, each product's ingredients collection is represented as a string of multiple ingredients.
 
-Sample result: ![regex](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/reg.png)
+Sample result: <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/reg.png" width="600"/>
 
 ### III. Explorative Data Analysis
 
 **1. Overview of Packaged Food Quality**
 
-![Nutri-grade](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nutri.png)
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nutri.png" width="600"/>
 
 **About 70% of packaged foods from United States are heavily processed (NOVA 4).
 This number is very consistent with most published reports of fast food in United States. Only a very smaller portion of food is unprocessed or minimally procssed.**
 
-![Nova-grade](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nova.png)
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nova.png" width="600"/>
 
 **Regarding Nutri-grade, nearly 50% of foods are given grade of D or E, this means most packaged food products do not bring many health benefits to consumers at all.**
 
