@@ -2,7 +2,7 @@
 
 <p align="center">
   <a>
-    <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/logo.png" alt="Logo" width="120" height="120">
+    <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/logo.png" alt="Logo" width="200">
   </a>
 
   <p align="center">
@@ -12,7 +12,8 @@
   </p>
 </p>
 
-
+<br />
+<br />
 Link to Presentation: https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0iUPPr1RTWVEJv36mlMCbqDrYg/edit?usp=sharing
 
 ## DATASET
