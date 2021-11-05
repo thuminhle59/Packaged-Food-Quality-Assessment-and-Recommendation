@@ -91,6 +91,8 @@ This number is very consistent with most published reports of fast food in Unite
 
 **Does Vegan equal Healither?**
 
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/veg_nutri.png" width="500"/>
+
 ![veg_Nutri](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/veg_nutri.png)
 
 **Are Vegan Foods less processed?**
