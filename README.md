@@ -11,7 +11,7 @@
     <a href="https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0iUPPr1RTWVEJv36mlMCbqDrYg/edit?usp=sharing"><strong>The Presentation »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/thuminhle59/Novous_EatBetterNotLess/tree/main/Project_Files">Project files</a>
+    <a href="https://github.com/thuminhle59/Novous_EatBetterNotLess/tree/main/Project_Files">Jupyter Notebooks</a>
     ·
     <a href="https://world.openfoodfacts.org/data">Dataset</a>
   </p>
