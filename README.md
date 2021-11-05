@@ -72,7 +72,7 @@ For the purpose of this project, only packaged foods from United States were cho
 
 Sample result:
 
-<img src="https://github.com/thuminhle59/Novous_EatBetterNotLess/blob/main/imgs/reg.png?raw=true" width="600"/>
+<img src="https://github.com/thuminhle59/Novous_EatBetterNotLess/blob/main/imgs/reg.png?raw=true" width="800"/>
 
 ### III. Explorative Data Analysis
 
