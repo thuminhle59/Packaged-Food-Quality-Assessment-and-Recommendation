@@ -203,7 +203,7 @@ From the Data Analysis done on packaged food products, I do think that Vegan foo
 [forks-url]: https://github.com/thuminhle59/Novous/network/members
 [stars-shield]: https://img.shields.io/github/stars/thuminhle59/Novous.svg?style=for-the-badge
 [stars-url]: https://github.com/thuminhle59/Novous/stargazers
-[watch-shield]: https://img.shields.io/github/watch/thuminhle59/Novous.svg?style=for-the-badge
+[watch-shield]: https://img.shields.io/github/watchers/thuminhle59/Novous.svg?style=for-the-badge
 [watch-url]: https://github.com/thuminhle59/Novous/watchers
 [license-shield]: https://img.shields.io/github/license/thuminhle59/Novous.svg?style=for-the-badge
 [license-url]: https://github.com/thuminhle59/Novous/blob/main/LICENSE
