@@ -173,8 +173,8 @@ From the Data Analysis done on packaged food products, I do think that Vegan foo
 
 ## FUTURE WORK
 
-1. OCR of Nutrition Fact labels on Packaged Foods for automatic input of Food-quality assessment
-2. Personalized Allergens Detection using OCR and String matching
-3. More Nutrition Analysis
-4. Implementation on Cosmetics Products using similar approaches
+  - OCR of Nutrition Fact labels on Packaged Foods for automatic input of Food-quality assessment
+  - Personalized Allergens Detection using OCR and String matching
+  - More Nutrition Analysis
+  - Implementation on Cosmetics Products using similar approaches
 
