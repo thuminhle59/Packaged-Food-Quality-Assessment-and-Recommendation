@@ -99,7 +99,7 @@ This number is very consistent with most published reports of fast food in Unite
 
 **3. Additives**
 
-<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/adds.png" width="600"/>
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/adds.png" width="300"/>
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/add_cat.png" width="600"/>
 
