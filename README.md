@@ -122,6 +122,10 @@ This number is very consistent with most published reports of fast food in Unite
 
 Random Forest was chosen as the Final model for both Classification and Regresison tasks.
 
+**Streamlit Demo**
+
+![grading](https://github.com/thuminhle59/Novous_EatBetterNotLess/blob/d88f07ed86ac9e5b7c82e818d18b539a2f5fe2fa/imgs/grading.gif)
+
 **2. OCR for Additives Detection**
 
 ![additives_gif](https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/additives.gif)
@@ -129,8 +133,6 @@ Random Forest was chosen as the Final model for both Classification and Regresis
 When an image of ingredients is passed through Novous, with the help of Pytesseract and Regex, Novous can detect the additives in E-numbers and provide the information such as side effects and usages to users.
 
 **3. Recommendation System with Content-based Filtering**
-
-![grading](https://media.giphy.com/media/OyafIy6NoYKjFoz2Zy/giphy.gif)
 
 Tfidf Vectorizer is used to vectorize the categorical features into numbers. Each product will be a vector with each entry is a unique ingredient of that product. Tfidf highlights the important and unique ingredients and making sure that unimportant ones (water, sugars, etc..) do not dominate
 
