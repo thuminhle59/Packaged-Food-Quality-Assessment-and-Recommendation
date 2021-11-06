@@ -31,6 +31,26 @@
 
 <img src="https://github.com/thuminhle59/Novous/blob/main/imgs/intro1.gif?raw=true">
 
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li><a href="#dataset">Dataset</a>
+    </li>
+    <li><a href="#project-description">Project Description/a></li>
+    <li><a href="#requirements">Requirements</a></li>
+    <li><a href="#outline">Outline</a></li>
+      <ul><li><a href="#i-questions">Questions/a></li></ul>
+      <ul><li><a href="#ii-data-pre-processing">Data Preprocessing</a></li></ul>
+      <ul><li><a href="#iii-explorative-data-analysis">Explorative Data Analysis/a></li></ul>
+      <ul><li><a href="#iv-developing-models">Developing Models/a></li></ul>
+        <ul><li><a href="#iv-developing-models">Developing Models/a></li></ul>
+    <li><a href="#credits">Credits</a></li>
+  </ol>
+</details>
+
+
 ## DATASET
 The dataset used for Novous originates from OpenFoodFacts (https://world.openfoodfacts.org) a free and online database of nearly 2 million food products around the world. This data contains metadata of packaged foods such as Name, Brand, Product Image, Origin, Nutrition facts, Ingredients, Nutriscore, Nova-grade, etc.
 
