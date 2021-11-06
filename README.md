@@ -193,17 +193,20 @@ Tfidf Vectorizer is used to vectorize the categorical features into numbers. Eac
 
 **NOVA-grade Classification**
 
-||Random Forest Classifier|
+|Random Forest Classifier |
 |-------------|-----------|
 | Accuracy    |  0.90799  |
 | F1 weighted |  0.90869  |
 | Fbeta       |  0.90930  |
 | Roc Auc     |  0.94228  |
 
-
-Roc Areas for each NOVA-grade class
+  - Roc Areas for each NOVA-grade class
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/roc_auc.png" width="600"/>
+
+  - Feature Importance
+
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/feature_imp.jpg" width="600"/>
 
 **Nutri-score Regression**
 
