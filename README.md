@@ -29,7 +29,7 @@
 </p>
 
 
-<img src="https://github.com/thuminhle59/Novous/blob/main/imgs/intro.gif?raw=true">
+<img src="https://github.com/thuminhle59/Novous/blob/main/imgs/intro1.gif?raw=true">
 
 ## DATASET
 The dataset used for Novous originates from OpenFoodFacts (https://world.openfoodfacts.org) a free and online database of nearly 2 million food products around the world. This data contains metadata of packaged foods such as Name, Brand, Product Image, Origin, Nutrition facts, Ingredients, Nutriscore, Nova-grade, etc.
@@ -162,6 +162,8 @@ Random Forest was chosen as the Final model for both Classification and Regresis
 When an image of ingredients is passed through Novous, with the help of Pytesseract and Regex, Novous can detect the additives in E-numbers and provide the information such as side effects and usages to users.
 
 **3. Recommendation System with Content-based Filtering**
+
+![Rec_gif](https://github.com/thuminhle59/Novous/blob/main/imgs/rec.gif?raw=true)
 
 Tfidf Vectorizer is used to vectorize the categorical features into numbers. Each product will be a vector with each entry is a unique ingredient of that product. Tfidf highlights the important and unique ingredients and making sure that unimportant ones (water, sugars, etc..) do not dominate
 
