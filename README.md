@@ -174,6 +174,8 @@ Random Forest was chosen as the Final model for both Classification and Regresis
 
 **Streamlit Demo**
 
+Below is the demonstration of how the Classification and Regression models were utilized for the Food-grading system
+
 ![grading](https://github.com/thuminhle59/Novous_EatBetterNotLess/blob/d88f07ed86ac9e5b7c82e818d18b539a2f5fe2fa/imgs/grading.gif)
 
 **2. OCR for Additives Detection**
