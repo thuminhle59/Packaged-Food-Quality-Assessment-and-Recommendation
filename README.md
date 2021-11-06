@@ -44,8 +44,8 @@
       <ul><li><a href="#ii-data-pre-processing">Data Preprocessing</a></li></ul>
       <ul><li><a href="#iii-explorative-data-analysis">Explorative Data Analysis</a></li></ul>
       <ul><li><a href="#iv-developing-models">Developing Models</a></li></ul>
-      <ul><li><a href="#v-fine-tuning--evaluation">Fine-tuning & Evaluation/a></li></ul>
-    <li><a href="#key-takeaways">Key Take-Aways</a></li>
+      <ul><li><a href="#v-fine-tuning--evaluation">Fine-tuning & Evaluation</a></li></ul>
+    <li><a href="#key-takeaways">Key TakeAways</a></li>
     <li><a href="#future-work">Future Work</a></li>
     <li><a href="#thank-you">Thank You</a></li>
   </ol>
