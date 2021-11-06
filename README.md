@@ -36,17 +36,18 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li><a href="#dataset">Dataset</a>
-    </li>
-    <li><a href="#project-description">Project Description/a></li>
+    <li><a href="#dataset">Dataset</a></li>
+    <li><a href="#project-description">Project Description</a></li>
     <li><a href="#requirements">Requirements</a></li>
     <li><a href="#outline">Outline</a></li>
-      <ul><li><a href="#i-questions">Questions/a></li></ul>
+      <ul><li><a href="#i-questions">Questions</a></li></ul>
       <ul><li><a href="#ii-data-pre-processing">Data Preprocessing</a></li></ul>
-      <ul><li><a href="#iii-explorative-data-analysis">Explorative Data Analysis/a></li></ul>
-      <ul><li><a href="#iv-developing-models">Developing Models/a></li></ul>
-        <ul><li><a href="#iv-developing-models">Developing Models/a></li></ul>
-    <li><a href="#credits">Credits</a></li>
+      <ul><li><a href="#iii-explorative-data-analysis">Explorative Data Analysis</a></li></ul>
+      <ul><li><a href="#iv-developing-models">Developing Models</a></li></ul>
+      <ul><li><a href="#v-fine-tuning--evaluation">Fine-tuning & Evaluation/a></li></ul>
+    <li><a href="#key-takeaways">Key Take-Aways</a></li>
+    <li><a href="#future-work">Future Work</a></li>
+    <li><a href="#thank-you">Thank You</a></li>
   </ol>
 </details>
 
