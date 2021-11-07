@@ -141,13 +141,19 @@ This number is very consistent with most published reports of fast food in Unite
 
  **Does Vegan equal Healither?**
 
-<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/veg_nutri.png" width="600"/>
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/veg_nutri (2).png" width="600"/>
 
 **Are Vegan Foods less processed?**
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/vegnova.png" width="600"/>
 
-**With 98% of Non-Vegan foods fall into NOVA-grade D or E (foods with high level of processing). So why not consider going Vegan?**
+**With 98% of Non-Vegan foods fall into NOVA-grade D or E (foods with high level of processing).**
+
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/chol_cat.png" width="600"/>
+
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/sat_cat.png" width="600"/>
+
+**On top of that, Non-vegan foods also contain greater amount of bad nutrients such as Cholesterol or Saturated fat compared to Vegan foods. So why not consider going Vegan?**
 
 **3. Additives**
 
