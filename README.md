@@ -147,7 +147,7 @@ This number is very consistent with most published reports of fast food in Unite
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/vegnova.png" width="600"/>
 
-**98% of Non-Vegan foods fall into NOVA-grade D or E (foods with high level of processing).**
+**98% of Non-Vegan foods fall into Nutri-grade D or E and Nova-grade 4 (foods with high level of processing).**
 
 **On top of that, Non-vegan foods also contain greater amount of bad nutrients such as Cholesterol or Saturated fat compared to Vegan foods.**
 
