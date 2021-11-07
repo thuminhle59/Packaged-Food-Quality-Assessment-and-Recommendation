@@ -153,10 +153,13 @@ This number is very consistent with most published reports of fast food in Unite
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/adds.png" width="300"/>
 
-<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/add_cat.png" width="800"/>
+**Top 30 most common Additives in Food**
+
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/top30adds.png" width="300"/>
 
 **Most packaged foods contain at least some additives added for coloring, preservative, or emulsifiers. In 1 package of Dessert, there could be up to 35 additives which definitely do more harm than good to our health.**
 
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/add_cat.png" width="800"/>
 
 ### IV. Developing Models
 
@@ -216,6 +219,10 @@ Tfidf Vectorizer is used to vectorize the categorical features into numbers. Eac
 |-----------|-----------|
 |   MSE     |   1.6853  |
 |   MAE     |   0.49874 |
+
+ Feature Importance
+
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/feature_imp_nutri.jpg" width="600"/>
 
 ## KEY TAKEAWAYS
 
