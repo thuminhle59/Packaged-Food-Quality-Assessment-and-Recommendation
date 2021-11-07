@@ -130,12 +130,12 @@ Sample result:
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nutri.png" width="600"/>
 
-**About 70% of packaged foods from United States are heavily processed (NOVA 4).
-This number is very consistent with most published reports of fast food in United States. Only a very smaller portion of food is unprocessed or minimally procssed.**
+About 70% of packaged foods from United States are heavily processed (NOVA 4).
+This number is very consistent with most published reports of fast food in United States. Only a very smaller portion of food is unprocessed or minimally procssed.
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/nova.png" width="600"/>
 
-**Regarding Nutri-grade, nearly 50% of foods are given grade of D or E, this means most packaged food products do not bring many health benefits to consumers at all.**
+Regarding Nutri-grade, nearly 50% of foods are given grade of D or E, this means most packaged food products do not bring many health benefits to consumers at all.
 
 **2. Vegan vs. Non-Vegan**
 
@@ -147,9 +147,9 @@ This number is very consistent with most published reports of fast food in Unite
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/vegnova.png" width="600"/>
 
-**More than half of Non-Vegan foods fall into Nutri-grade D or E and Nova-grade 4 (foods with low nutritional value and high level of processing).**
+More than half of Non-Vegan foods fall into Nutri-grade D or E and Nova-grade 4 (foods with low nutritional value and high level of processing).
 
-**On top of that, Non-vegan foods also contain greater amount of bad nutrients such as Cholesterol or Saturated fat compared to Vegan foods.**
+On top of that, Non-vegan foods also contain greater amount of bad nutrients such as Cholesterol or Saturated fat compared to Vegan foods.
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/chol_cat.png" width="800"/>
 
@@ -165,7 +165,7 @@ This number is very consistent with most published reports of fast food in Unite
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/top30adds.png" width="800"/>
 
-**Most packaged foods contain at least some additives added for coloring, preservative, or emulsifiers. In 1 package of Dessert, there could be up to 35 additives which definitely do more harm than good to our health.**
+Most packaged foods contain at least some additives added for coloring, preservative, or emulsifiers. In 1 package of Dessert, there could be up to 35 additives which definitely do more harm than good to our health.
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/add_cat.png" width="800"/>
 
