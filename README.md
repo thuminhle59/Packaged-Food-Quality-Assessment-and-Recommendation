@@ -139,7 +139,7 @@ This number is very consistent with most published reports of fast food in Unite
 
 **2. Vegan vs. Non-Vegan**
 
-  - **Does Vegan equal Healither?**
+  - **Does Vegan equal Healthier?**
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/veg_nutri.png" width="600"/>
 
