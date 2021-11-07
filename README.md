@@ -155,7 +155,7 @@ This number is very consistent with most published reports of fast food in Unite
 
 **Top 30 most common Additives in Food**
 
-<img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/top30adds.png" width="300"/>
+<img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/top30adds.png" width="800"/>
 
 **Most packaged foods contain at least some additives added for coloring, preservative, or emulsifiers. In 1 package of Dessert, there could be up to 35 additives which definitely do more harm than good to our health.**
 
