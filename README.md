@@ -149,9 +149,11 @@ Regarding Nutri-grade, nearly 50% of foods are given grade of D or E, this means
 
 More than half of Non-Vegan foods fall into Nutri-grade D or E and Nova-grade 4 (foods with low nutritional value and high level of processing).
 
-On top of that, Non-vegan foods also contain greater amount of bad nutrients such as Cholesterol or Saturated fat compared to Vegan foods.
+On top of that, Non-vegan foods also contain greater amount of bad nutrients such as Cholesterol
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/chol_cat.png" width="800"/>
+
+or Saturated fat compared to Vegan foods.
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/sat_cat.png" width="800"/>
 
