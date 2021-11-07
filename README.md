@@ -139,11 +139,11 @@ This number is very consistent with most published reports of fast food in Unite
 
 **2. Vegan vs. Non-Vegan**
 
- **Does Vegan equal Healither?**
+  - **Does Vegan equal Healither?**
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/veg_nutri.png" width="600"/>
 
-**Are Vegan Foods less processed?**
+  - **Are Vegan Foods less processed?**
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/vegnova.png" width="600"/>
 
@@ -161,7 +161,7 @@ This number is very consistent with most published reports of fast food in Unite
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/adds.png" width="300"/>
 
-**Top 30 most common Additives in Food**
+  - **Top 30 most common Additives in Food**
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/top30adds.png" width="800"/>
 
