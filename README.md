@@ -249,7 +249,7 @@ From the Data Analysis done on packaged food products, I do think that Vegan foo
 
   Words cannot express my gratitude enough to the people who helped me make this project a success. This project was a part of **CoderSchool 2021 Machine Learning bootcamp** that I took part in and was presented at the Demo Day on **October 28th, 2021** with industrial judges from Zalo, Shopee, and Parcel Perform. 
   
-  The bootcamp that lasted 4 months was taught by the dedicated and amazing Instructors and Teaching Assistants whom I greatly appreciate. It also introduced me to people who have been very supportive throughout the course and that are now my good friends.
+  The bootcamp that lasted 4 months was taught by the dedicated and amazing Instructors (anh Quân, anh Nhân, anh Chinh) and Teaching Assistants (Minh, Nathan, Ngọc) whom I greatly appreciate. It also introduced me to people who have been very supportive throughout the course and that are now my good friends.
   
   Thank you again to all of the wonderful people whom I met at CoderSchool. Wish you all Good luck!
   
