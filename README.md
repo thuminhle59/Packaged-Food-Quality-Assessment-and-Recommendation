@@ -31,7 +31,7 @@
 
 <img src="https://github.com/thuminhle59/Novous/blob/main/imgs/intro1.gif?raw=true">
 
-*Please check out more demo below*
+<p align="center">Please check out more demo below</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
