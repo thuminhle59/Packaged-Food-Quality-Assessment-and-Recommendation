@@ -61,7 +61,7 @@ The dataset used for Novous originates from OpenFoodFacts (https://world.openfoo
 For the purpose of this project, only packaged foods from United States were chosen to analyze their ingredients in English, and the number of items were around 190,000 products, along with 12 numerical and categorical features and 2 targets
 
 ## PROJECT DESCRIPTION
-   - ```[Preprocessing.ipynb]```(https://github.com/thuminhle59/Novous/blob/main/Project_Files/Novous_Preprocessing.ipynb): Data Preprocessing Notebook for EDA, ML pipelines and Recommendation system
+   - [Preprocessing.ipynb](https://github.com/thuminhle59/Novous/blob/main/Project_Files/Novous_Preprocessing.ipynb): Data Preprocessing Notebook for EDA, ML pipelines and Recommendation system
     
    - ```Project_Files/Novous_EDA.ipynb```: This notebook contains some insights about Nutrition of most Packaged food products in the United States and how they can impact our health
     
