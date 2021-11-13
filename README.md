@@ -226,7 +226,7 @@ Tfidf Vectorizer is used to vectorize the categorical features into numbers. Eac
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous/main/imgs/feature_imp.jpg" width="600"/>
 
- **Nutri-score Regression**
+  - **Nutri-score Regression**
 
 | Metrics |Random Forest Regressor|
 |-----------|-----------|
