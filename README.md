@@ -31,7 +31,7 @@
   </p>
 </p>
 
-<img src="https://github.com/thuminhle59/Novous/blob/main/imgs/intro1.gif?raw=true">
+<img src="https://github.com/thuminhle59/Novous/blob/main/imgs/intro.gif?raw=true">
 
 <p align="center">Check out more demo below :)</p>
 
