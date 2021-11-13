@@ -17,7 +17,10 @@
   <p align="center">
     The app that assesses the quality of packaged food products and recommends healthier substitution.
     <br />
-    <a href="https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0iUPPr1RTWVEJv36mlMCbqDrYg/edit?usp=sharing"><strong>The Presentation »</strong></a>
+    <a href="https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0iUPPr1RTWVEJv36mlMCbqDrYg/edit?usp=sharing"><strong>The Presentation</strong></a>
+    <br />
+    <br />
+    <a href="https://fb.watch/9fb2CSR5Wj/"><strong>DEMO Day »</strong></a>
     <br />
     <br />
     <a href="https://github.com/thuminhle59/Novous_EatBetterNotLess/tree/main/Project_Files">Jupyter Notebooks</a>
@@ -28,10 +31,9 @@
   </p>
 </p>
 
-
 <img src="https://github.com/thuminhle59/Novous/blob/main/imgs/intro1.gif?raw=true">
 
-<p align="center">Please check out more demo below</p>
+<p align="center">Check out more demo below :)</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
