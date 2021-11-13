@@ -258,6 +258,8 @@ From the Data Analysis done on packaged food products, I do think that Vegan foo
   
   Thank you again to all of the wonderful people whom I met at CoderSchool. Wish you all Good luck!
   
+ -----------------
+ If you like my work, please give this repository a star so I can keep improving and work on more projects :)
 
 [contributors-shield]: https://img.shields.io/github/contributors/thuminhle59/Novous.svg?style=for-the-badge
 [contributors-url]: https://github.com/thuminhle59/Novous/graphs/contributors
