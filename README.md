@@ -46,7 +46,7 @@
       <ul><li><a href="#i-questions">Questions</a></li></ul>
       <ul><li><a href="#ii-data-pre-processing">Data Preprocessing</a></li></ul>
       <ul><li><a href="#iii-explorative-data-analysis">Explorative Data Analysis</a></li></ul>
-      <ul><li><a href="#iv-developing-models">Developing Models</a></li></ul>
+      <ul><li><a href="#iv-developing-models--demo">Developing Models & Demo</a></li></ul>
       <ul><li><a href="#v-fine-tuning--evaluation">Fine-tuning & Evaluation</a></li></ul>
     <li><a href="#key-takeaways">Key TakeAways</a></li>
     <li><a href="#future-work">Future Work</a></li>
@@ -89,7 +89,7 @@ For the purpose of this project, only packaged foods from United States were cho
 1. Defining Questions
 2. Data Selection & Processing
 3. Explorative Data Analytics
-4. Developing Models
+4. Developing Models & Demo
     - Classification & Regression Models
     - OCR for Additives Detection
     - Recommendation System
@@ -174,7 +174,7 @@ Most packaged foods contain at least some additives added for coloring, preserva
 
 <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/add_cat.png" width="800"/>
 
-### IV. Developing Models
+### IV. Developing Models & Demo
 
 **1. Random Forest for NOVA-grade Classification and Nutri-score Regression**
 
