@@ -13,7 +13,7 @@
   <a>
     <img src="https://raw.githubusercontent.com/thuminhle59/Novous_EatBetterNotLess/main/imgs/logo.png" alt="Logo" width="180" height="140">
   </a>
-  <h5 align="center">Pronunciation: "Now vouz"</h5>
+  <h5 align="center">Pronunciation: "Now vou"</h5>
   <h3 align="center">EatBetterNotLess</h3>
   <p align="center">
     The app that assesses the quality of packaged food products and recommends healthier substitution.
