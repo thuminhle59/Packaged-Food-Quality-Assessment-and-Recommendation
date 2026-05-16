@@ -20,7 +20,7 @@
     <a href="https://docs.google.com/presentation/d/18U59q65M4gWwAdbxB0iUPPr1RTWVEJv36mlMCbqDrYg/edit?usp=sharing"><strong>The Presentation</strong></a>
     <br />
     <br />
-    <a href="https://fb.watch/9fb2CSR5Wj/"><strong>DEMO Day »</strong></a>
+    <a href="https://youtu.be/19QFVcvAdPw?si=b3mN1u-j5kBXudek"><strong>DEMO Day »</strong></a>
     <br />
     <br />
     <a href="https://github.com/thuminhle59/Novous_EatBetterNotLess/tree/main/Project_Files">Jupyter Notebooks</a>
